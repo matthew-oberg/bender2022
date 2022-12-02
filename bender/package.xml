@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>bender_metapkg</name>
+  <name>bender</name>
   <version>1.0.0</version>
-  <description>The bender_metapkg package</description>
+  <description>The bender package</description>
 
   <maintainer email="matthewoberg@u.boisestate.edu">Matthew Oberg</maintainer>
 
